@@ -55,8 +55,15 @@
         <th>入力内容</th>
     </tr>
 
+    
+
     <tr>
       <td>社員名</td>
+      <td><?php echo $employee_age ?></td>
+    </tr>
+
+    <tr>
+      <td>年齢</td>
       <td><?php echo $employee_name ?></td>
     </tr>
 
